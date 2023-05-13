@@ -9,6 +9,7 @@
 }
 
 body {
+    background-image: url('../images/background_pattern.png');
     height: 100vh;
     background: #9ed8ab;
 }

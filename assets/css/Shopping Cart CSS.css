@@ -6,7 +6,8 @@
 	box-sizing: border-box;
 }
 body{
-	background: #c8efd1;
+	
+	background-image: url('../images/background_pattern.png');
 	overflow:hidden;
 }
 .container{

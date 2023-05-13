@@ -17,6 +17,7 @@ a {
 }
 
 body {
+    background-image: url('../images/background_pattern.png');
     margin: 0px;
     padding: 0px;
     font-family: poppins;
